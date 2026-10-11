@@ -14,7 +14,7 @@ alembic==1.4.2
 babel==2.18.0
 certifi==2020.12.5
 charset-normalizer==1.4.1
-click==7.1.1
+click==7.1.2
 docutils==0.23
 idna==2.9
 imagesize==1.5.0
