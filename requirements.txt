@@ -5,7 +5,7 @@ Flask-Migrate==2.7.0
 Flask-Script==2.0.6
 Flask-SQLAlchemy==2.5.1
 WTForms==2.3.3
-SQLAlchemy==1.4.54
+SQLAlchemy==2.1.4
 Flask-WTF==0.15.1
 Flask-Login==0.6.3
 Sphinx==2.4.4
