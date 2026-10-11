@@ -19,7 +19,7 @@ docutils==0.23
 idna==2.10
 imagesize==1.5.0
 iniconfig==1.1.1
-itsdangerous==1.1.0
+itsdangerous==2.2.0
 jinja2==2.11.3
 mako==1.1.2
 markupsafe==1.1.1
