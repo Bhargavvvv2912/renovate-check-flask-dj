@@ -9,7 +9,7 @@ SQLAlchemy==1.4.54
 Flask-WTF==0.14.3
 Flask-Login==0.6.3
 Sphinx==2.4.4
-alabaster==0.7.16
+alabaster==1.0.0
 alembic==1.4.2
 babel==2.18.0
 certifi==2020.4.5.1
