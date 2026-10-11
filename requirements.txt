@@ -13,7 +13,7 @@ alabaster==0.7.16
 alembic==1.4.2
 babel==2.18.0
 certifi==2026.7.22
-charset-normalizer==1.4.1
+charset-normalizer==3.5.2
 click==7.1.2
 docutils==0.23
 idna==2.10
